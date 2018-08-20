@@ -1,0 +1,15 @@
+body{
+	margin: 0;
+	padding: 0;
+	background: gray;
+	color: green;
+}
+.box{
+	margin:  50px 600px;
+}
+.box li{
+	list-style: none;
+	margin-top: 10px;
+	border-bottom:  1px solid #ccc;
+
+}
